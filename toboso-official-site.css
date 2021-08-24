@@ -1,0 +1,63 @@
+* {
+    margin: 0 4% 2%;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-logo {
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+}
+
+/* Nav section */
+ol {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    list-style: none;
+    margin: 60px 18px 40px 8px;
+}
+
+.nav-img1 {
+    width: 100px;
+}
+.nav-img2 {
+    width: 210px;
+}
+.nav-img3 {
+    width: 96px;
+}
+.nav-img4 {
+    width: 70px;
+}
+.nav-img5 {
+    width: 80px;
+}
+
+/* Main section */
+.seb-ciel-pic {
+    display: flex;
+    justify-content: center;
+}
+
+.twitter-box {
+    background-color: rgb(245, 245, 245);
+}
+
+.sub-twitter-box {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.yana-toboso-twitter-pic {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+/* footer section */
+
+.yana-sign {
+    text-align: center;
+}
